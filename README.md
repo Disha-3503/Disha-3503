@@ -42,7 +42,7 @@ About Me
 
 
 ## 👩‍💻 Passionate about?
-*LEARNING!!<br>EXPLORING!!<br>INNOVATING!!*
+*LEARNING 🎓<br>EXPLORING 📈<br>INNOVATING 🚀*
 
 ## 📞 Contact Me
 - <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=chincholedisha@gmail.com" title="Email"><img src="https://github.com/get-icon/geticon/blob/master/icons/google-gmail.svg" alt = "Gmail" width="25px" height="25">Mail</a>
