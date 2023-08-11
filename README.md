@@ -3,15 +3,15 @@
 
 
 I am *Disha Chinchole*, pursuing my Bachelor's in Electronics and Telecommunications Engineering at Pune Institute Of Computer Technology, Pune <br/>
-🌟 Transforming Ideas into Reality  <br/>
-🌐 Exploring the Latest Tech Trends & Best Practices
+<br/>
+*LEARNING 🎓<br>EXPLORING 📈<br>INNOVATING 🚀*
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Disha-3503&layout=compact&theme=aura)]
 
 
 
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Disha-3503&theme=highcontrast"/>
+   <img align="center" src="INNOVAthub-readme-streak-stats.herokuapp.com?user=Disha-3503&theme=highcontrast"/>
 
 
 <br/>
@@ -41,7 +41,9 @@ About Me
 
 
 ## 👩‍💻 Passionate about?
-*LEARNING 🎓<br>EXPLORING 📈<br>INNOVATING 🚀*
+
+🌟 Transforming Ideas into Reality  <br/>
+🌐 Exploring the Latest Tech Trends & Best Practices
 
 ## 📞 Contact Me
 - <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=chincholedisha@gmail.com" title="Email"><img src="https://github.com/get-icon/geticon/blob/master/icons/google-gmail.svg" alt = "Gmail" width="25px" height="25px">Mail</a>
