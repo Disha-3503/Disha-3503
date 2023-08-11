@@ -2,7 +2,7 @@
 # Welcome to my Github Page
 
 
-I am *Disha Chinchole*, pursuing Bachelor's in Electronics and Telecommunications Engineering at Pune Institute Of Computer Technology, Pune <br/>
+I am *Disha Chinchole*, pursuing my Bachelor's in Electronics and Telecommunications Engineering at Pune Institute Of Computer Technology, Pune <br/>
 🌟 Transforming Ideas into Reality  <br/>
 🌐 Exploring the Latest Tech Trends & Best Practices
 
