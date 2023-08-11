@@ -44,10 +44,10 @@ About Me
 *LEARNING 🎓<br>EXPLORING 📈<br>INNOVATING 🚀*
 
 ## 📞 Contact Me
-- <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=chincholedisha@gmail.com" title="Email"><img src="https://github.com/get-icon/geticon/blob/master/icons/google-gmail.svg" alt = "Gmail" width="25px" height="25">Mail</a>
-- <a href="https://www.linkedin.com/in/dishachinchole/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="25" width="25" />LinkedIn</a>
+- <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=chincholedisha@gmail.com" title="Email"><img src="https://github.com/get-icon/geticon/blob/master/icons/google-gmail.svg" alt = "Gmail" width="25px" height="25px">Mail</a>
+- <a href="https://www.linkedin.com/in/dishachinchole/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="25px" width="25px" />LinkedIn</a>
 
--  <a href="https://www.instagram.com/disha_chinchole/" title="Instagram"><img src="https://github.com/get-icon/geticon/blob/master/icons/instagram-icon.svg" width="25px" height="25">Instagram</a>
+-  <a href="https://www.instagram.com/disha_chinchole/" title="Instagram"><img src="https://github.com/get-icon/geticon/blob/master/icons/instagram-icon.svg" width="25px" height="25px">Instagram</a>
 
 
 <!--
